@@ -231,10 +231,16 @@ Then open **http://localhost:8501** in your browser.
 
 ---
 
-## 👩‍💻 Author
+## 👥 Team
 
-**Mahi Wegad**  
-Minor Project — Semester 5  
+**Minor Project — Semester 5**
+
+| Roll No | Name |
+|---|---|
+| 37 | Mahek Mishra |
+| 50 | Siddh Agrawal |
+| 51 | Mahi Wegad |
+
 GitHub: [@mahiwegad](https://github.com/mahiwegad)
 
 ---
