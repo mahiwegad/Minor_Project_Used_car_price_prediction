@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  An end-to-end machine learning project that predicts the resale price of a used car in India — from raw CSV data to a live Streamlit web app.
+  A machine learning web application that predicts the resale price of used cars in India using XGBoost regression (R² = 0.906), trained on CarDekho listings with features like brand, age, fuel type, and engine specs.<br/>
+  Built end-to-end with Python, scikit-learn, and Streamlit — covering data cleaning, EDA, model comparison, hyperparameter tuning, and live price prediction.
 </p>
 
 ---
