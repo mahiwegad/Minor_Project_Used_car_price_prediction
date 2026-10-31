@@ -1,0 +1,83 @@
+{
+  "num_cols": [
+    "car_age",
+    "km_driven",
+    "mileage",
+    "engine",
+    "max_power",
+    "seats"
+  ],
+  "cat_cols": [
+    "brand",
+    "fuel",
+    "seller_type",
+    "transmission",
+    "owner"
+  ],
+  "brands": [
+    "Ambassador",
+    "Ashok",
+    "Audi",
+    "BMW",
+    "Chevrolet",
+    "Daewoo",
+    "Datsun",
+    "Fiat",
+    "Force",
+    "Ford",
+    "Honda",
+    "Hyundai",
+    "Isuzu",
+    "Jaguar",
+    "Jeep",
+    "Kia",
+    "Land Rover",
+    "MG",
+    "Mahindra",
+    "Maruti",
+    "Mercedes-Benz",
+    "Mitsubishi",
+    "Nissan",
+    "Opel",
+    "Peugeot",
+    "Renault",
+    "Skoda",
+    "Tata",
+    "Toyota",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "fuels": [
+    "CNG",
+    "Diesel",
+    "LPG",
+    "Petrol"
+  ],
+  "seller_types": [
+    "Dealer",
+    "Individual",
+    "Trustmark Dealer"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "owners": [
+    "First Owner",
+    "Fourth & Above Owner",
+    "Second Owner",
+    "Test Drive Car",
+    "Third Owner"
+  ],
+  "medians": {
+    "car_age": 12.0,
+    "km_driven": 70000.0,
+    "mileage": 19.5,
+    "engine": 1248.0,
+    "max_power": 81.83,
+    "seats": 5.0
+  },
+  "model_name": "XGBoost",
+  "r2": 0.9058824181556702,
+  "mae": 69839.421875
+}
